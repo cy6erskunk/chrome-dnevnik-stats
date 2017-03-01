@@ -1,0 +1,10 @@
+.stats {
+    position: relative;
+    display: inline-block;
+    top: -1.5em;
+}
+
+    .stats__inner {
+        font-size: 2em;
+        position: absolute;
+    }
